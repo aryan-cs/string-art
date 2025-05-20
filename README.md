@@ -1,7 +1,7 @@
 
 # Algorithmic String Art
 
-Utilizing stochastic sampling of Shannon entropy distributions generated via a softmax to efficiently calculate best-path decisions for string art.
+Optimizing string art pathfinding via stochastic entropy sampling and softmax-weighted decision boundaries using Xiaolin Wu's line algorithm.
 
 ## Examples
 
